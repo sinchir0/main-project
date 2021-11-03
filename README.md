@@ -2,7 +2,7 @@
 Git講座用 mainプロジェクト
 
 ### Overview
-![demo](iamges/tst.gif)
+![demo](images/tst.gif)
 
 
 ###  How to isntall
